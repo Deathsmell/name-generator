@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33cb14e5-5ddf-47ab-85da-948d37405276" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hYL9LuOA3ghpwb2sXQ0jH2wIAL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.12.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.11.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v14.12.0/bin/node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/main" />
+      <recent name="$PROJECT_DIR$/main/locale/en" />
+      <recent name="$PROJECT_DIR$/main/locale/ru" />
+      <recent name="$PROJECT_DIR$/myImpl" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33cb14e5-5ddf-47ab-85da-948d37405276" name="Default Changelist" comment="" />
+      <created>1600182926352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600182926352</updated>
+      <workItem from="1600182927488" duration="1258000" />
+      <workItem from="1600184199623" duration="11106000" />
+      <workItem from="1600237077976" duration="4688000" />
+      <workItem from="1600522226459" duration="200000" />
+      <workItem from="1600534854659" duration="588000" />
+      <workItem from="1600540852540" duration="83000" />
+      <workItem from="1600683520456" duration="887000" />
+      <workItem from="1601019687001" duration="329000" />
+      <workItem from="1601020030455" duration="4253000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="680" y="304" key="#Node.js_and_NPM" timestamp="1601019754058">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="680" y="304" key="#Node.js_and_NPM/0.0.1920.1035@0.0.1920.1035" timestamp="1601019754058" />
+    <state x="867" y="329" key="#Vim_Emulation" timestamp="1601019873935">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="867" y="329" key="#Vim_Emulation/0.0.1920.1035@0.0.1920.1035" timestamp="1601019873935" />
+    <state x="720" y="354" width="469" height="404" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600183544624">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="720" y="354" width="469" height="404" key="#com.intellij.fileTypes.FileTypeChooser/0.30.1920.1050@0.30.1920.1050" timestamp="1600183544624" />
+    <state x="698" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601023760607">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="698" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1035@0.0.1920.1035" timestamp="1601023760607" />
+    <state x="743" y="313" width="424" height="487" key="FileChooserDialogImpl" timestamp="1600540932315">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="743" y="313" width="424" height="487" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1600540932315" />
+    <state x="693" y="475" width="538" height="162" key="GitCloneDialog" timestamp="1600183897450">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="693" y="475" width="538" height="162" key="GitCloneDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1600183897450" />
+    <state x="556" y="190" key="SettingsEditor" timestamp="1601023534148">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="556" y="190" key="SettingsEditor/0.0.1920.1035@0.0.1920.1035" timestamp="1601023534148" />
+    <state x="689" y="287" width="585" height="540" key="StructurePopup" timestamp="1600189279234">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="689" y="287" width="585" height="540" key="StructurePopup/0.30.1920.1050@0.30.1920.1050" timestamp="1600189279234" />
+    <state x="731" y="402" width="448" height="309" key="cloudConfig.PluginsDialog" timestamp="1600184182701">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="731" y="402" width="448" height="309" key="cloudConfig.PluginsDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1600184182701" />
+    <state x="829" y="367" width="252" height="305" key="cloudConfig.SelfSettingsDialog" timestamp="1601019693965">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="829" y="367" width="252" height="305" key="cloudConfig.SelfSettingsDialog/0.0.1920.1035@0.0.1920.1035" timestamp="1601019693965" />
+    <state x="829" y="402" width="251" height="309" key="cloudConfig.SelfSettingsDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1600184176520" />
+    <state x="488" y="120" width="934" height="794" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601023818780">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="488" y="120" width="934" height="794" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1035@0.0.1920.1035" timestamp="1601023818780" />
+    <state x="624" y="254" key="run.anything.popup" timestamp="1600193148448">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="624" y="254" key="run.anything.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1600193148448" />
+    <state x="623" y="228" width="672" height="669" key="search.everywhere.popup" timestamp="1601022104323">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="623" y="228" width="672" height="669" key="search.everywhere.popup/0.0.1920.1035@0.0.1920.1035" timestamp="1601022104323" />
+    <state x="623" y="261" width="672" height="678" key="search.everywhere.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1600183954777" />
+  </component>
+</project>
